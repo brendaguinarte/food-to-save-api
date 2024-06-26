@@ -11,8 +11,8 @@ Esta é uma aplicação Spring Boot que interage com um banco de dados H2 e util
 
 1- Clonar o repositório:
 
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_REPOSITORIO>
+    git clone https://github.com/brendaguinarte/food-to-save-api.git
+    cd food-to-save-api
 
 2- Construir e iniciar os serviços com Docker Compose:
 
