@@ -56,11 +56,13 @@ Exemplo de corpo da requisição:
 Através do seu navegador, acessa o link: http://localhost:8080/h2-console/
 Copiar o id que virá no console ao rodar o docker-compose (conforme imagem abaixo):
 
-![image](https://github.com/brendaguinarte/food-to-save-api/assets/170212422/109864c9-d2a0-49e5-8980-d26ce62b252d)
+![image](https://github.com/brendaguinarte/food-to-save-api/assets/170212422/520455b5-7643-4726-afce-f049682866fe)
+
 
 Preencher no campo JDBC URL na tela de login do banco H2:
 
-![image](https://github.com/brendaguinarte/food-to-save-api/assets/170212422/7724b4b3-18da-4456-88e8-fd21b079979b)
+![image](https://github.com/brendaguinarte/food-to-save-api/assets/170212422/9368573a-697b-400d-a7e0-9fec26e21c91)
+
 
 ## Como Acessar o Banco de Dados REDIS (Cache)
 
