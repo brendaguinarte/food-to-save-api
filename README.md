@@ -75,7 +75,13 @@ Para verificar os restaurantes em cache, verifique se tem o redis-cli instalado 
 
 `127.0.0.1:6379> keys *`
 
-Depois de 10 segundos após o cache ser salvo, todos os dados serão apagados até que seja criado um novo cache.
+Depois de 10 segundos que o cache foi salvo, todos os dados serão apagados até que seja criado um novo cache.
+
+## Rastreabilidade do tempo
+
+Tempo de desenvolvimento foi rastreado utilizando tarefas criadas por mim no TRELLO, facilitando a organização do tempo e esforço sem perder o caminho para o objetivo.
+
+https://trello.com/b/7yPvDDDy/desafio-food-to-save
 
 ## Contato
 Para mais informações, entre em contato com brendaguinarte@gmail.com
