@@ -12,9 +12,12 @@ Esta é uma aplicação Spring Boot que interage com um banco de dados H2 e util
 1- Clonar o repositório:
 
     git clone https://github.com/brendaguinarte/food-to-save-api.git
+
+2- Acessar diretório do projeto:
+   
     cd food-to-save-api
 
-2- Construir e iniciar os serviços com Docker Compose:
+3- Construir e iniciar os serviços com Docker Compose:
 
     docker-compose up --build
 
